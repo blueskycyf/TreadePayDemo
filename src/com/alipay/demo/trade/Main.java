@@ -89,7 +89,7 @@ public class Main {
         //        main.test_monitor_schedule_logic();
 
         // 测试当面付2.0支付（使用未集成交易保障接口的当面付2.0服务）
-                main.test_trade_pay(tradeService);
+        //        main.test_trade_pay(tradeService);
 
         // 测试查询当面付2.0交易
         //        main.test_trade_query();
@@ -98,7 +98,7 @@ public class Main {
         //        main.test_trade_refund();
 
         // 测试当面付2.0生成支付二维码
-        main.test_trade_precreate();
+      //  main.test_trade_precreate();
     }
 
     // 测试系统商交易保障调度
